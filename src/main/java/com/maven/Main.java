@@ -1,4 +1,4 @@
-package com;
+package com.maven;
 
 public class Main {
     public static void main(String[] args) {
